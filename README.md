@@ -30,4 +30,4 @@ In this app, I practice the following:
 4. Binding component methods to user events, such as keystrokes and clicks
 5. Formatting data using pipes
 6. Creating a shared service
-7. Utilizing routing to navigate between various views and their associated components.
+7. Utilizing routing to navigate between various views and their associated components
